@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**federicaercole/federicaercole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 I'm a graphic designer who is studying front-end development.
 
-Here are some ideas to get you started:
+I'm passionate about the web since early 2000s, when all the websites were built using tables or Flash.
+At that time I used to create simple websites using HTML and CSS, and then using WordPress.org with themes made from zero by myself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ I know well:
+ - HTML
+ - CSS
+ 
+🌱 What I'm currently learning with The Odin Project: 
+ - JavaScript
+ - React
