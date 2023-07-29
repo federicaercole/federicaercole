@@ -1,6 +1,6 @@
 # Hi there 👋
 
-👩‍💻 I'm a graphic designer who is studying front-end development. I spend my time improving my skills and learning something new.
+👩‍💻 I'm a graphic designer who is studying web development. I spend my time improving my skills and learning something new.
 
 I'm passionate about the web since early 2000s, when all the websites were built using tables or Flash.
 At that time I used to create simple static websites using HTML and CSS, and then I started using WordPress.org.
@@ -13,6 +13,8 @@ I recently started learning Javascript and React with some courses, like The Odi
  - Sass/SCSS
  - JavaScript
  - React
+ - Node.js
+ - SQL
  - WordPress
  - Git
  - VS Code
